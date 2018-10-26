@@ -1,4 +1,3 @@
-# hello-world
-The first project I made
+ubuntu16.04 python3.5安装
 
-I am editting something....
+https://www.jianshu.com/p/95bd2622c8d5
